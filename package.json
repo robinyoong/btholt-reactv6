@@ -34,6 +34,7 @@
     "last 2 Chrome versions"
   ],
   "dependencies": {
+    "pet": "^1.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
