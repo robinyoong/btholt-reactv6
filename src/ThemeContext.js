@@ -1,5 +1,5 @@
 import { createContext, CreateContext } from 'react';
 
-const ThemeContext = createContext();
+const ThemeContext = createContext(['green'], () => {});
 
-Export default ThemeContext
+export default ThemeContext;
